@@ -1,2 +1,0 @@
-# hasianxd
-all about termux
